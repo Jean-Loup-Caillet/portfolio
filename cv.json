@@ -303,6 +303,17 @@
       ],
       "url": "https://github.com/hacksecureims/Challenges-HSR2024",
       "github":""
+    }, 
+    {
+      "name": "Publication",
+      "isActive": true,
+      "description": "Quick compensatory mechanisms for tongue posture stabilization during speech production.",
+      "highlights": [
+        "Participation in technical trials",
+        "Participation in analysis of initial results"
+      ],
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32432505/",
+      "github":""
     }
   ]
 }
