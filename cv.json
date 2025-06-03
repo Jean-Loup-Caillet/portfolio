@@ -1,0 +1,305 @@
+{
+  "basics": {
+    "name": "Jean-Loup Caillet",
+    "label": "Space Simulators Architect",
+    "image": "/me.jpg",
+    "email": "jean-loup.caillet@pm.me",
+    "phone": "+33 7 86 26 17 70",
+    "summary": "Experienced Space Simulator Architect passionate about innovation and emerging technologies. Looking for new challenges in the space sector.",
+    "theme": "light",
+    "location": {
+      "address": "12 Rue Nouadhibou",
+      "postalCode": "31400",
+      "city": "Toulouse",
+      "countryCode": "FR",
+      "region": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jean-loup-caillet",
+        "url": "https://www.linkedin.com/in/jean-loup-caillet-464766344/"
+      },
+      {
+        "network": "GitHub",
+        "username": "Jean-Loup-Caillet",
+        "url": "https://github.com/Jean-Loup-Caillet"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "U-Space",
+      "position": "Ground Systems and Simulation Engineer",
+      "location_type": "On site",
+      "location": "Toulouse, France",
+      "url": "https://www.u-space.fr/?lang=en",
+      "startDate": "2022-09-01",
+      "endDate": null,
+      "summary": "Design, implement and develop software architecture for nanosatellite simulators.",
+      "highlights": [
+        "Create a fully responsive simulator structure with HITL (+Numerical)"
+      ],
+      "responsibilities": [
+        "Communicate with users and clients to translate business needs into technical solutions.",
+        "Define software requirements alongside the product owner, users, and development teams.",
+        "Design software architectures by selecting appropriate technologies, defining interconnections, and producing the corresponding documentation.",
+        "Conduct feasibility studies and develop proof-of-concept prototypes to assess the viability of IT projects.",
+        "Draft detailed specifications based on user needs and inputs, along with a development roadmap for the IT system.",
+        "Write clean, maintainable source code that complies with development standards and software engineering best practices.",
+        "Contribute (when applicable) to hardware development interfacing with the developed software.",
+        "Define the technical roadmap and ensure its feasibility and execution.",
+        "Define test and validation strategies for the IT system and its interfaces with other systems.",
+        "Validate and analyze system functionality and performance.",
+        "Define and implement IT system security and data privacy policies.",
+        "Plan and manage the maintenance and evolution of the IT system.",
+        "Produce comprehensive technical and user documentation for the system.",
+        "Ensure software quality, performance, and compliance with business requirements and development standards.",
+        "Identify and resolve bugs and anomalies in both development and production environments.",
+        "Deploy the system, train users, and provide support either internally or at the client site.",
+        "Monitor system evolution and integrate new technologies as needed.",
+        "Collaborate with other developers and space engineers, work as part of a team, and provide technical expertise to fellow developers.",
+        "Act as the main technical point of contact and reference for a given IT system or specific technologies.",
+        "Take full responsibility for delivering On Quality, On Time, and On Cost (OQOTOC) for all development activities under your scope.",
+        "Lead software development in project mode by providing regular updates on progress, risks (technical and human), and blocking issues.",
+        "Work in agile mode in collaboration with users, focusing on individual interactions, delivering in sprints, and adapting to change."
+      ],
+      "achievements": [
+        "Developed around thirty hybrid simulators with varied functionalities: mission-specific, generic, and multi-purpose.",
+        "Delivered a cost-effective and easily deployable software base for flight software development.",
+        "Provided complete simulation systems—including platform and ground segment simulators—for satellite operations training.",
+        "Participated in the LEOP (Launch and Early Orbit Phase) of multiple satellites.",
+        "Provided expertise and support in various subsystems: EPS (Electrical Power System), Thermal, GNSS, GNC (Guidance, Navigation & Control), RF, etc.",
+        "Delivered end-to-end systems to various clients, from design to operational deployment.",
+        "Designed electronic boards for avionics test benches.",
+        "Integration of the ground-system simulator in a clean room with 2 real satellites (PFM) for rehearsal tests."
+      ],
+      "skills": [
+        "Python",
+        "C/C++",
+        "Gitlab",
+        "Git",
+        "Shell",
+        "Java",
+        "Groovy", 
+        "ECSS", 
+        "Linux", 
+        "Altium"
+      ]
+    },
+    {
+      "name": "CS for CNES",
+      "position": "Maneuver support for SIRIUS’ projects",
+      "location_type": "Hybrid",
+      "location": "Toulouse, France",
+      "url": "https://www.cs-soprasteria.com/fr/",
+      "startDate": "2018-11-01",
+      "endDate": "2022-08-04",
+      "summary": "Participate in the development of satellite constellation phasing and station-keeping algorithms, with a view to enriching flight dynamics algorithms database (SIRIUS) for CNES",
+      "highlights": [
+        "Contributed to the success of the constellation mission"
+      ],
+      "responsibilities": [
+        "Monitoring and validate flight dynamics's algorithms (SIRIUS)",
+        "Technical support for multi satellite station keeping (FR: MAP)",
+        "Operational support for multi satellite positioning (FR: MIP)",
+        "Help to the Flight Dynamic System product's validation (FDS)", 
+        "Participation in system trials for product validation (FDS) and mission requirements. (MultisatPhasing, StationKeeping, AOCS...)"
+      ],
+      "achievements": [
+        "Successfully led the implementation of station-keeping algorithms and the validation of multi-phasing algorithms for satellites.",
+        "Designed and executed over fifty test scenarios during QO (Operational Qualification), QT (Qualification Testing), and RG (General Repetitions) phases to validate all systems, including programming, orbitography, and maneuver planning.",
+        "Performed satellite operations, including constellation deployment, acting as maneuver lead.",
+        "Oversaw station-keeping operations for the constellation, serving as maneuver lead."
+      ],
+      "skills": [
+        "CPM-S/N",
+        "Shell",
+        "Java",
+        "Groovy",
+        "Subversion", 
+        "Git", 
+        "Redhat", 
+        "GraphDB", 
+        "Patrius/Orekit"
+      ]
+    },
+    {
+      "name": "CNES",
+      "position": "Flight Sofware validation for the Nanosatellite Eyesat",
+      "location_type": "On site",
+      "location": "Toulouse, France",
+      "url":"https://cnes.fr/",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-01",
+      "summary": "Contributing to the validation of various flight software partitions for the EyeSat nanosatellite on an avionics test bench",
+      "highlights": [
+        "Validate the AOCS algorithms of the LV, develop the power architecture and thermal chain",
+        "Interfacing the bench with the control centre and the numerical simulator"
+      ],
+      "skills": [
+        "BASILES",
+        "C/C++", 
+        "Clean Room"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "M.Sc. Space Technology & Instrumentation",
+      "url": "https://www.m2tsi.eu/",
+      "area": "Space Technology and Instrumentation",
+      "studyType": "Master",
+      "startDate": "2017-09-01",
+      "endDate": "2018-05-01",
+      "score": "1.7"
+    },
+    {
+      "institution": "M.Sc. Phelma",
+      "url": "https://phelma.grenoble-inp.fr/",
+      "area": "Electronics & Signal processing",
+      "studyType": "Master",
+      "startDate": "2016-09-01",
+      "endDate": "2017-07-01",
+      "score": "2.8"
+    },
+    {
+      "institution": "Joseph Fourier",
+      "url": "https://www.univ-grenoble-alpes.fr/",
+      "area": "B.Sc Physics",
+      "studyType": "Bachelor",
+      "startDate": "2012-01-01",
+      "endDate": "2016-12-01",
+      "score": "3.7"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "TOEIC",
+      "date": "2024-03-05",
+      "issuer": "Univ. Toulouse 3 Paul Sabatier ",
+      "url": "https://www.etsglobal.org/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cpp",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate"
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Linux",
+      "level": "Expert"
+    },
+    {
+      "name": "Matlab",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Node",
+      "level": "Beginner"      
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Git",
+      "level": "Expert"
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Groovy",
+      "level": "Intermediate"
+    },
+    {
+      "name": "React",
+      "level": "Beginner"
+    },
+    {
+      "name": "Bash",
+      "level": "Expert"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Osinter",
+      "isActive": true,
+      "description": "An OSINTer is an open-source intelligence practitioner who gathers, analyzes, and interprets publicly available information to uncover insights for security, investigative, or strategic purposes.",
+      "highlights": [
+        "Participate in real-life investigations (missing persons)",
+        "Using Maltego Software"
+      ],
+      "url": "https://osintframework.com/"
+    },
+    {
+      "name": "CTF (HSR)",
+      "isActive": true,
+      "description": "A CTF (Capture The Flag) is a competitive cybersecurity challenge where participants solve tasks in areas like cryptography, reverse engineering, and exploitation to find hidden 'flags' and score points.",
+      "highlights": [
+        "Creation of various challenges (Crypto, Forensic, Steg, Osint..)"
+      ],
+      "url": "https://github.com/hacksecureims/Challenges-HSR2024"
+    }
+  ]
+}
