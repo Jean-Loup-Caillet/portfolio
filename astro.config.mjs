@@ -5,7 +5,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: "https://Jean-Loup-Caillet.github.io",
-  base: "",
-  outDir: "public",
-  publicDir: "static",
+  base: "/github-page",
 });
