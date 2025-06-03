@@ -2,11 +2,12 @@
   "basics": {
     "name": "Jean-Loup Caillet",
     "label": "Space Simulators Architect",
-    "image": "/me.jpg",
+    "image": "/porfolio/me.jpg",
     "email": "jean-loup.caillet@pm.me",
     "phone": "+33 7 86 26 17 70",
     "summary": "Experienced Space Simulator Architect passionate about innovation and emerging technologies. Looking for new challenges in the space sector.",
     "theme": "light",
+    "url":"https://Jean-Loup-Caillet.github.io",
     "location": {
       "address": "12 Rue Nouadhibou",
       "postalCode": "31400",
@@ -290,7 +291,8 @@
         "Participate in real-life investigations (missing persons)",
         "Using Maltego Software"
       ],
-      "url": "https://osintframework.com/"
+      "url": "https://osintframework.com/",
+      "github":""
     },
     {
       "name": "CTF (HSR)",
@@ -299,7 +301,8 @@
       "highlights": [
         "Creation of various challenges (Crypto, Forensic, Steg, Osint..)"
       ],
-      "url": "https://github.com/hacksecureims/Challenges-HSR2024"
+      "url": "https://github.com/hacksecureims/Challenges-HSR2024",
+      "github":""
     }
   ]
 }
