@@ -110,3 +110,9 @@
       --color-button-muted: 25, 81, 86;
     }
 }
+img,
+svg {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
