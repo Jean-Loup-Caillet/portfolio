@@ -94,7 +94,7 @@
       "location_type": "Hybrid",
       "location": "Toulouse, France",
       "url": "https://www.cs-soprasteria.com/fr/",
-      "startDate": "2018-11-01",
+      "startDate": "2018-10-01",
       "endDate": "2022-08-04",
       "summary": "Participate in the development of satellite constellation phasing and station-keeping algorithms, with a view to enriching flight dynamics algorithms database (SIRIUS) for CNES",
       "highlights": [
@@ -131,8 +131,8 @@
       "location_type": "On site",
       "location": "Toulouse, France",
       "url":"https://cnes.fr/",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
+      "startDate": "2018-03-01",
+      "endDate": "2018-09-01",
       "summary": "Contributing to the validation of various flight software partitions for the EyeSat nanosatellite on an avionics test bench",
       "highlights": [
         "Validate the AOCS algorithms of the LV, develop the power architecture and thermal chain",
@@ -145,20 +145,7 @@
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Local Coding Club",
-      "position": "Volunteer",
-      "url": "https://codingclub.com/",
-      "startDate": "2021-01-01",
-      "endDate": "2022-01-01",
-      "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
-  "education": [
+   "education": [
     {
       "institution": "M.Sc. Space Technology & Instrumentation",
       "url": "https://www.m2tsi.eu/",
