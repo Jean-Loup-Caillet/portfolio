@@ -60,20 +60,18 @@
         "Deploy the system, train users, and provide support either internally or at the client site.",
         "Monitor system evolution and integrate new technologies as needed.",
         "Collaborate with other developers and space engineers, work as part of a team, and provide technical expertise to fellow developers.",
-        "Act as the main technical point of contact and reference for a given IT system or specific technologies.",
-        "Take full responsibility for delivering On Quality, On Time, and On Cost (OQOTOC) for all development activities under your scope.",
         "Lead software development in project mode by providing regular updates on progress, risks (technical and human), and blocking issues.",
-        "Work in agile mode in collaboration with users, focusing on individual interactions, delivering in sprints, and adapting to change."
+        "Work in agile mode in collaboration with users, focusing on individual interactions, delivering in sprints, and adapting to changes."
       ],
       "achievements": [
         "Developed around thirty hybrid simulators with varied functionalities: mission-specific, generic, and multi-purpose.",
         "Delivered a cost-effective and easily deployable software base for flight software development.",
         "Provided complete simulation systems—including platform and ground segment simulators—for satellite operations training.",
         "Participated in the LEOP (Launch and Early Orbit Phase) of multiple satellites.",
-        "Provided expertise and support in various subsystems: EPS (Electrical Power System), Thermal, GNSS, GNC (Guidance, Navigation & Control), RF, etc.",
-        "Delivered end-to-end systems to various clients, from design to operational deployment.",
+        "Provided expertise and support in various subsystems: EPS (Electrical Power System), Thermal, GNSS, GNC (Guidance, Navigation & Control), RF, and so on...",
+        "Delivered end-to-end systems to various clients (HITL and on premise), from design to operational deployment.",
         "Designed electronic boards for avionics test benches.",
-        "Integration of the ground-system simulator in a clean room with 2 real satellites (PFM) for rehearsal tests."
+        "Integration of the ground-system simulator in a clean room with several satellites (PFM) for rehearsal tests."
       ],
       "skills": [
         "Python",
