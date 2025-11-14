@@ -84,8 +84,12 @@
         "Java",
         "Groovy", 
         "ECSS", 
+        "Docker",
+        "mongodb",
         "Linux", 
-        "Altium"
+        "Grafana",
+        "Altium",
+        "LTSpice"
       ]
     },
     {
@@ -229,6 +233,10 @@
     },
     {
       "name": "GitHub",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Docker",
       "level": "Intermediate"
     },
     {
